@@ -2,9 +2,15 @@
 
 A full-stack web application for monitoring environmental hazards using real-time sensor data and automated incident detection.
 
+
+
 Problem Statement:  In many industries today, small changes in temperature, pressure, gas levels, or machine performance can quickly turn into serious safety hazards. However, many factories and plants still depend on manual monitoring, which often leads to delays, missed warnings, and poor incident tracking. To improve safety and prevent accidents, there is a strong need for a centralized and intelligent system that can monitor sensors in real time, detect risks early, and automatically alert operators.
 
+
+
 Proposed Solution:  The proposed solution is a centralized hazard-detection system that continuously monitors sensor data such as temperature, pressure, and gas levels in real time. The system automatically identifies abnormal readings, classifies them into risk levels, and generates instant alerts for operators. It also logs incidents, provides a clean dashboard for monitoring, and improves overall workplace safety through faster detection and better reporting.
+
+
 
 
 📌 1. Project Overview
@@ -30,6 +36,8 @@ Deployment
 Backend: Render
 
 Frontend: Netlify
+
+
 
 
 
@@ -63,6 +71,8 @@ Deployment
 Netlify (Frontend)
 
 Render (Backend)
+
+
 
 
 
@@ -131,6 +141,8 @@ Frontend will run on:
 
 
 
+
+
 🌐 4. Live Deployment Links
 Frontend (Netlify):
 
@@ -139,6 +151,8 @@ Frontend (Netlify):
 Backend (Render):
 
 🔗 https://hazard-detection-system.onrender.com
+
+
 
 
 
@@ -178,6 +192,8 @@ https://drive.google.com/file/d/10rtTaog3CwLkdqoQwprlZtqFe0wbT98b/view?usp=shari
 
 
 
+
+
 🎯 6. Features & Bonus Enhancements
 ✔ Core Features
 
@@ -192,6 +208,8 @@ Resolve incident functionality
 Dashboard analytics
 
 Fully responsive UI
+
+
 
 
 
@@ -214,6 +232,9 @@ Reusable React components (Sidebar, Cards, Layout)
 
 
 
+
+
+
 🤝 8. Assumptions Made
 
 Sensor values are numeric (temperature, gas level, etc.)
@@ -233,5 +254,7 @@ System is meant for simulation rather than real hardware sensors
 
 
 📧9. Contact
+
 Md. Goharunnisaa
+
 📩 mdgohar03@gmail.com
