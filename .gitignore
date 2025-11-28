@@ -1,0 +1,7 @@
+backend/node_modules/
+hazard-frontend/node_modules/
+hazard-frontend/build/
+.env
+backend/.env
+.DS_Store
+Thumbs.db
